@@ -1,63 +1,83 @@
 [
     {
         "title": "Scrum",
+        "description": "Saiba mais sobre Scrum!",
         "link": "/scrum.md"
     }, {
-        "title": "Apps para se organizar",
+        "title": "Revisão Semanal",
+        "description": "Melhorando a nossa vida -- uma semana por vez",
         "link": "/revisao-semanal.md"
     }, {
-        "title": "Apps para se organizar",
+        "title": "Ikigai",
+        "description": "生きがい? Qual o sentido da vida afinal?",
         "link": "/ikigai.md"
     }, {
-        "title": "Apps para se organizar",
+        "title": "Análise FOFA",
+        "description": "Uma maneira rápida de enxergar os riscos em um problema",
         "link": "/fofa.html"
     }, {
-        "title": "Apps para se organizar",
+        "title": "GTDeep sobre Notion",
+        "description": "Minha primeira live! Explorando o app Notion",
         "link": "/notion.html"
     }, {
-        "title": "Apps para se organizar",
+        "title": "Top-Down &amp; Bottom Up",
+        "description": "Duas formas de encarar problemas",
         "link": "/top-down-bottom-up.md"
     }, {
-        "title": "Apps para se organizar",
+        "title": "Minihábitos",
+        "description": "Como construir hábitos que permanecerão em nossas vidas",
         "link": "/minihabitos.md"
     }, {
-        "title": "Apps para se organizar",
+        "title": "Maker 101",
+        "description": "Seja um maker você também!",
         "link": "/maker-101.md"
     }, {
         "title": "Apps para se organizar",
+        "description": "Meus apps favoritos para manter a vida em ordem",
         "link": "/apps.md"
     }, {
         "title": "Everyday Carry",
+        "description": "O que você carrega consigo é realmente necessário?",
         "link": "/edc.md"
     }, {
         "title": "Triângulo do Projeto",
+        "description": "Equilibrando a balança em projetos complicados de uma maneira rápida",
         "link": "/triangulo-projeto.md"
     }, {
         "title": "Estar ocupado",
+        "description": "...é diferente de ser produtivo",
         "link": "/estar-ocupado.md"
     }, {
         "title": "Aversão à Perda",
+        "description": "Toda decisão involve um risco e não há como escapar disso",
         "link": "/aversao-a-perda.md"
     }, {
         "title": "O que me impede",
+        "description": "Você não precisa estar alegre para ser feliz",
         "link": "/o-que-me-impede.md"
     }, {
         "title": "10 essenciais",
+        "description": "Coisas que todo mundo precisa saber fazer",
         "link": "/10-essenciais.md"
     }, {
         "title": "Organizando por materiais e por tópicos",
+        "description": "Como organizar nossas coisas de uma forma intuitiva",
         "link": "/organizando-materiais-topicos.md"
     }, {
         "title": "Sugestão de presente para quem já tem de tudo",
+        "description": "Sem quebrar no meio do processo",
         "link": "/presentes.md"
     }, {
         "title": "Melhores técnicas de estudo",
+        "description": "Referências para trabalhar e estudar -- rápido e eficiente",
         "link": "/tecnicas-estudo.html"
     }, {
         "title": "Promessas de fim de ano",
+        "description": "E como parar de repetir a mesma promessa todo ano",
         "link": "/promessas-fim-de-ano.md"
     }, {
         "title": "Por onde começar",
+        "description": "Seja bem vindo à Liberdade!",
         "link": "/comecar.md"
     }
 ]
