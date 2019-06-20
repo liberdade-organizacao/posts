@@ -1,5 +1,9 @@
 [
     {
+        "title": "Checklist para casa",
+        "description": "Indo morar sozinho pela primeira vez? Veja se tem tudo que precisa para não passar aperto",
+        "link": "/home-stuff.md"
+    }, {
         "title": "Checklist para viagem",
         "description": "Para não deixar para trás e curtir as férias ao máximo",
         "link": "/travel-stuff.md"
