@@ -2,54 +2,96 @@
     {
         "title": "Scrum",
         "description": "Saiba mais sobre Scrum!",
+        "tags": [
+            "produtividade"
+        ],
         "link": "/scrum.md"
     }, {
         "title": "Revisão Semanal",
         "description": "Melhorando a nossa vida -- uma semana por vez",
+        "tags": [
+            "organização"
+        ],
         "link": "/revisao-semanal.md"
     }, {
         "title": "Ikigai",
         "description": "生きがい? Qual o sentido da vida afinal?",
+        "tags": [
+            "inspiração"
+        ],
         "link": "/ikigai.md"
     }, {
         "title": "Análise FOFA",
         "description": "Uma maneira rápida de enxergar os riscos em um problema",
+        "tags": [
+            "produtividade"
+        ],
         "link": "/fofa.html"
     }, {
         "title": "GTDeep sobre Notion",
         "description": "Minha primeira live! Explorando o app Notion",
+        "tags": [
+            "produtividade",
+            "gtd"
+        ],
         "link": "/notion.html"
     }, {
         "title": "Top-Down &amp; Bottom Up",
         "description": "Duas formas de encarar problemas",
+        "tags": [
+            "inspiração"
+        ],
         "link": "/top-down-bottom-up.md"
     }, {
         "title": "Minihábitos",
         "description": "Como construir hábitos que permanecerão em nossas vidas",
+        "tags": [
+            "produtividade"
+        ],
         "link": "/minihabitos.md"
     }, {
         "title": "Maker 101",
         "description": "Seja um maker você também!",
+        "tags": [
+            "inspiração"
+        ],
         "link": "/maker-101.md"
     }, {
         "title": "Apps para se organizar",
         "description": "Meus apps favoritos para manter a vida em ordem",
+        "tags": [
+            "produtividade",
+            "organização"
+        ],
         "link": "/apps.md"
     }, {
         "title": "Everyday Carry",
         "description": "O que você carrega consigo é realmente necessário?",
+        "tags": [
+            "organização",
+            "edc"
+        ],
         "link": "/edc.md"
     }, {
         "title": "Triângulo do Projeto",
         "description": "Equilibrando a balança em projetos complicados de uma maneira rápida",
+        "tags": [
+            "produtividade"
+        ],
         "link": "/triangulo-projeto.md"
     }, {
         "title": "Estar ocupado",
         "description": "...é diferente de ser produtivo",
+        "tags": [
+            "inspiração"
+        ],
         "link": "/estar-ocupado.md"
     }, {
         "title": "Aversão à Perda",
         "description": "Toda decisão involve um risco e não há como escapar disso",
+        "tags": [
+            "organização"
+        ],
         "link": "/aversao-a-perda.md"
     }, {
         "title": "O que me impede",
