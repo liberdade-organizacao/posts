@@ -1,11 +1,9 @@
-        # Fly Lady
-
 **10 Passos**
 
 1. Faça sua pia brilhar antes de dormir
 2. Vista-se e calce sapatos quando acordar
 3. Escreva lembretes para si mesma
-4. Livre-se dos _hotspots_ (locais onde a bagunca se acumula)
+4. Livre-se dos _hotspots_ (locais onde a bagunça se acumula)
 5. Separe sua roupa para o dia seguinte
 6. Arrume sua cama assim que acordar
 7. Comece a construir seu fichário para manter suas rotinas
