@@ -1,7 +1,12 @@
 [
     {
+        "title": "Zero Waste",
+        "description": "Algumas ideias para começar a sua vida zero waste!",
+        "link": "/zero-waste.md"
+    },
+    {
         "title": "Fly Lady",
-        "description": "Os 10 passos e os 11 mandamentos da Fly Lady vao te ajudar a manter sua casa sob controle!",
+        "description": "Os 10 passos e os 11 mandamentos da Fly Lady vão te ajudar a manter sua casa sob controle!",
         "link": "/fly-lady.md"
     },
     {
