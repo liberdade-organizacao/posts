@@ -1,15 +1,41 @@
 [
     {
+        "title": "i3",
+        "description": "Introdução ao i3",
+        "link": "/i3.md"
+    }, {
+        "title": "tmux",
+        "description": "Introdução ao tmux",
+        "link": "/tmux.md"
+    }, {
+        "title": "Screen",
+        "description": "Referência rápida para o comando screen",
+        "link": "/screen.md"
+    }, {
+        "title": "PostgreSQL",
+        "description": "Setup do banco de dados PostgreSQL",
+        "link": "/postgresql.md"
+    }, {
+        "title": "Deploy de aplicação no Heroku",
+        "description": "Exemplo de como levantar uma aplicação web no Heroku",
+        "link": "/heroku.md"
+    }, {
+        "title": "Ruby on Rails + Vagrant",
+        "description": "Uso do Vagrant para executar aplicações Ruby on Rails",
+        "link": "/vagrant.md"
+    }, {
+        "title": "Technology Readiness Level",
+        "description": "Lista da NASA para indicar o nível de maturidade de um projeto",
+        "link": "/trl.md"
+    }, {
         "title": "Zero Waste",
         "description": "Algumas ideias para começar a sua vida zero waste!",
         "link": "/zero-waste.md"
-    },
-    {
+    }, {
         "title": "Fly Lady",
         "description": "Os 10 passos e os 11 mandamentos da Fly Lady vão te ajudar a manter sua casa sob controle!",
         "link": "/fly-lady.md"
-    },
-    {
+    }, {
         "title": "Checklist para casa",
         "description": "Indo morar sozinho pela primeira vez? Veja se tem tudo que precisa para não passar aperto",
         "link": "/home-stuff.md"
