@@ -1,5 +1,14 @@
 [
+
     {
+        "title": "Front in Floripa 2019",
+        "description": "Anotaçōes do Front in Floripa 2019",
+        "link": "/frontinfloripa2019.md"
+    }, {
+        "title": "Gophercon Brasil 2019",
+        "description": "Anotaçōes da Gophercon Brasil 2019",
+        "link": "/gopherconbr2019.md"
+    }, {
         "title": "i3",
         "description": "Introdução ao i3",
         "link": "/i3.md"
@@ -31,30 +40,10 @@
         "title": "Zero Waste",
         "description": "Algumas ideias para começar a sua vida zero waste!",
         "link": "/zero-waste.md"
-    }, {
-        "title": "Fly Lady",
-        "description": "Os 10 passos e os 11 mandamentos da Fly Lady vão te ajudar a manter sua casa sob controle!",
-        "link": "/fly-lady.md"
-    }, {
-        "title": "Checklist para casa",
-        "description": "Indo morar sozinho pela primeira vez? Veja se tem tudo que precisa para não passar aperto",
-        "link": "/home-stuff.md"
-    }, {
-        "title": "Checklist para viagem",
-        "description": "Para não deixar nada para trás e curtir as férias ao máximo",
-        "link": "/travel-stuff.md"
-    }, {
+    },{
         "title": "Scrum",
         "description": "Saiba mais sobre Scrum",
         "link": "/scrum.md"
-    }, {
-        "title": "Revisão Semanal",
-        "description": "Melhorando a nossa vida -- uma semana por vez",
-        "link": "/revisao-semanal.md"
-    }, {
-        "title": "Ikigai",
-        "description": "生きがい? Qual o sentido da vida afinal?",
-        "link": "/ikigai.md"
     }, {
         "title": "Análise FOFA",
         "description": "Uma maneira rápida de enxergar os riscos em um problema",
@@ -68,10 +57,6 @@
         "description": "Duas formas de encarar problemas",
         "link": "/top-down-bottom-up.md"
     }, {
-        "title": "Minihábitos",
-        "description": "Como construir hábitos que permanecerão em nossas vidas",
-        "link": "/minihabitos.md"
-    }, {
         "title": "Maker 101",
         "description": "Seja um maker você também!",
         "link": "/maker-101.md"
@@ -80,25 +65,13 @@
         "description": "Meus apps favoritos para manter a vida em ordem",
         "link": "/apps.md"
     }, {
-        "title": "Everyday Carry",
-        "description": "O que você carrega consigo é realmente necessário?",
-        "link": "/edc.md"
-    }, {
         "title": "Triângulo do Projeto",
         "description": "Equilibrando a balança em projetos complicados de uma maneira rápida",
         "link": "/triangulo-projeto.md"
     }, {
-        "title": "Estar ocupado",
-        "description": "...é diferente de ser produtivo",
-        "link": "/estar-ocupado.md"
-    }, {
         "title": "Aversão à Perda",
         "description": "Toda decisão involve um risco e não há como escapar disso",
         "link": "/aversao-a-perda.md"
-    }, {
-        "title": "O que me impede",
-        "description": "Você não precisa estar alegre para ser feliz",
-        "link": "/o-que-me-impede.md"
     }, {
         "title": "10 essenciais",
         "description": "Coisas que todo mundo precisa saber fazer",
@@ -108,20 +81,8 @@
         "description": "Como organizar nossas coisas de uma forma intuitiva",
         "link": "/organizando-materiais-topicos.md"
     }, {
-        "title": "Sugestão de presente para quem já tem de tudo",
-        "description": "Sem quebrar no meio do processo",
-        "link": "/presentes.md"
-    }, {
         "title": "Melhores técnicas de estudo",
         "description": "Referências para trabalhar e estudar -- rápido e eficiente",
         "link": "/tecnicas-estudo.html"
-    }, {
-        "title": "Promessas de fim de ano",
-        "description": "E como parar de repetir a mesma promessa todo ano",
-        "link": "/promessas-fim-de-ano.md"
-    }, {
-        "title": "Por onde começar",
-        "description": "Seja bem vindo à Liberdade!",
-        "link": "/comecar.md"
     }
 ]
