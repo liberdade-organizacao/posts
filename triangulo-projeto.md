@@ -1,3 +1,5 @@
+# Triângulo do Projeto
+
 Quando planejamos como vamos trabalhar em um projeto, seja profissional ou pessoal, temos que levar em conta as limitações inerentes ao contexto em que estamos a fim de analisar se é possível ou não terminar o projeto; e, se for o caso, qual resultado pode ser esperado deste esforço.  Neste sentido, uma ferramenta que pode ser muito útil para uma avaliação inicial é o chamado "triângulo do projeto", que consiste de um exercício mental onde avaliamos a qualidade do resultado final baseando-se em três variáveis: custo, tempo e escopo.   
 
 ![triângulo equilátero](https://github.com/liberdade-organizacao/tumblr/raw/master/assets/triangle/equal-triangle.png)  

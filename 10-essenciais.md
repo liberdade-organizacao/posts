@@ -1,3 +1,5 @@
+# 10 essenciais
+
 Se você foi/for escoteiro, já deve ter ouvido falar na ideia dos 10 itens essenciais. Hoje, gostaria de apresentar a minha versão dessa lista. A motivação dela é identificar alguns itens que sejam essenciais para carregar sempre que possível, a fim de estar sempre preparado. No caso, citarei as dez categorias e as minhas escolhas.
 
 1. Navegação

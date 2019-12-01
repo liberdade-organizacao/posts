@@ -1,3 +1,5 @@
+# Zero waste
+
 Nos últimos anos, as evidências de que precisamos cuidar do meio ambiente tem
 se tornado cada vez mais alarmantes: o aumento da temperatura dos oceanos;
 a quantidade de lixo na natureza; e a poluição tanto do ar quanto das águas

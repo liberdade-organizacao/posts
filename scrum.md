@@ -1,3 +1,5 @@
+# Scrum
+
 Provavelmente a metodologia ágil mais popular de todas é o Scrum, um *framework* para auxiliar no desenvolvimento de aplicações complexas. A metodologia foi publicada por Ken Schwaber e Jeff Sutherland em 2001 após anos de estudo sobre o tópico datando desde os anos 80. O Scrum sugere que a nossa equipe tenha pelo menos 3 tipos de responsáveis:
 
 - O *product owner* é a pessoa na equipe que vai entender o produto e vai indicar qual direção que deve ser tomada. Pode ser a própria pessoa que quer o produto do serviço contratado ou alguém da nossa equipe que estará sempre em contato com a empresa que nos contratou.
