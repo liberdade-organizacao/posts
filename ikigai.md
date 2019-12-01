@@ -1,9 +1,0 @@
-Nos meus estudos sobre a língua japonesa, deparei-me recentemente com um termo muito bonito e bastante complexo: 生きがい (lê-se Ikigai). Ele pode ser traduzido como "valor da vida" ou "razão de ser" e como se chega a ele é uma bela viagem que pode nos levar a algumas reflexões interessantes.
-
-Na vida, há 4 tipos de atividades que realizamos que agregam valor às coisas: há aquilo que fazemos por amor; aquilo que fazemos porque somos bons; aquilo que podemos ser pagos por; e aquilo que o mundo precisa. Por exemplo: podemos ser muitos bons cozinheiros enquanto somos pagos para trabalhar em uma empresa de contabilidade, mesmo sabendo que o que a sua cidade precisa mesmo é de um prefeito decente. No fundo do seu coração, você ama cuidar das suas plantas e arrumar a sua casa.
-
-Naturalmente, essas atividades não são mutuamente exclusivas. Veja bem, você pode fazer algo que você ama e que, ao mesmo tempo, você é bom: uma atividade assim seria a sua paixão. Você também pode fazer que você ama e que o mundo precisa: essa é a sua missão. Outras "misturas" que podemos fazer são a sua profissão (algo que você porque é bom e que você pode ser pago por isso) ou a sua vocação (algo que você ser pago e que o mundo precisa).
-
-O interessante é enxergar que essas "uniões" não necessariamente são a mesma coisa: a sua profissão não precisa ser a sua paixão; assim como a sua missão não necessariamente é a sua vocação. Isto quer dizer que, agora, você pode estar trabalhando em um emprego que não é aquilo que você mais gosta do mundo, ou que você está fazendo algo que você adore fazer mas que não sirva muitas pessoas ou até mesmo não dá para pagar as contas no fim do mês.
-
-É aí que entra o Ikigai: ele é a união de tudo isso. Você consegue imaginar algo que você ama, que você é muito bom fazendo, que o mundo precisa e que você pode ser pago por isso?
