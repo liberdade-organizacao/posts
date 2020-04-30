@@ -1,5 +1,9 @@
 [
     {
+        "title": "Auto-gerenciamento",
+        "description": "Dicas para ajudar a por a vida de volta aos trilhos",
+        "link": "/auto-gerenciamento.md"
+    }, {
         "title": "Burnout",
         "description": "Anotações da palestra sobre Burnout",
         "link": "/burnout.md"
