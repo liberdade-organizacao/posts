@@ -1,0 +1,27 @@
+# Burnout
+
+- **Stress** é causado pela produção de _cortisol_ no corpo. Cortisol deve ser produzido ao acordar; ao cair da tarde; ou quando uma ameaça aparece.
+- **Stress crônico** acontece quando o cortisol é produzido de maneira errada pelo seu corpo. Isso interfere na produção de _testosterona_ (já que ambos vem do _colesterol_) e traz problemas.
+- **Burnout** é quando a glândula que produz cortisol quebra e os efeitos do stress crônico se multiplicam. Isso se chama **fadiga adrenal**.
+- Para prevenir o burnout, devemos:
+    - Controlar o stress;
+    - Dormir 7 ~ 9 horas por dia e antes das 23h;
+    - Alimentar apropriadamente (comprar e comer de feira e açougue);
+    - **BUSCAR AJUDA MÉDICA**
+- Existem níveis de stress crônico! Os testes podem ajudar a medir o seu nível:
+    - [Adrenal fatigue questionnaire](https://adrenalfatigue.org/take-the-adrenal-fatigue-questionnaire/)
+    - [Burnout questionnaire](https://adrenalfatigue.org/burnout-questionnaire/)
+- Para tratar burnout:
+    - Psiquiatra
+    - Nutrólogo (≠ Nutricionista)
+- Para cuidar da fadigal adrenal:
+    - Vitamina B
+    - Vitamina C
+    - Vitamina E
+    - Magnésio
+    - Malato
+    - Biotina
+- A solução para o burnout não é trabalhar menos, mas sim trabalhar direito.
+- Dormir no escuro total e antes da 23h ajuda a produzir _melatonina_, que interfere no quão bem você acorda.
+- Burnout é uma condição médica, que implica você chegar a ficar de cama por conta de stress demais. Ter uma atitude positiva somente não é o suficiente para cuidar disso.
+- Anedonia é a falta de querer, gostar e aprender por um reenforço positivo. É um dos sintomas da depressão mas pode ocorrer no caso do burnout também.

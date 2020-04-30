@@ -1,5 +1,9 @@
 [
     {
+        "title": "Burnout",
+        "description": "Anotações da palestra sobre Burnout",
+        "link": "/burnout.md"
+    }, {
         "title": "A importância da documentaçāo",
         "description": "Pensamentos sobre porque e como fazer boa documentaçāo",
         "link": "/importancia-da-documentacao.md"
