@@ -35,10 +35,11 @@ Comandos básicos
 - ⌘, renomeia janelas
 - ⌘N e ⌘P para trocar janelas ("Next" e "Previous")
 - ⌘W para listar janelas
-- ⌘% e ⌘" divide uma janela vertical e horizontalmente, respectivamente dois paineis.
+- ⌘% e ⌘" divide uma janela vertical e horizontalmente, respectivamente.
 - ⌘O para mudar para o próximo painel
 - ⌘D para desafixar de uma sessão
 - ⌘? para listar todos os atalhos
+- ⌘Z para maximizar o painel atual
 - ⌘: para digitar comandos manualmente
 
 Examplos de comandos manuais:
