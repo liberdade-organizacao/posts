@@ -1,5 +1,9 @@
 [
     {
+        "title": "Mentalidade Left-Shift",
+        "description": "O objetivo de toda equipe de qualidade: left-shift",
+        "link": "/left-shift.md"
+    }, {
         "title": "AI/ML para QA",
         "description": "Como usar inteligência artificial e machine learning para garantir a qualidade do seu produto",
         "link": "/ai-ml-qa.md"
