@@ -1,5 +1,9 @@
 [
     {
+        "title": "Web Independente",
+        "description": "A internet é nossa!",
+        "link": "/indie-web.md"
+    }, {
         "title": "Mentalidade Left-Shift",
         "description": "O objetivo de toda equipe de qualidade: left-shift",
         "link": "/left-shift.md"
