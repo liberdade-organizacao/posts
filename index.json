@@ -1,5 +1,9 @@
 [
     {
+        "title": "Plano de Desenvolvimento Individual",
+        "description": "Para ajudar a dar uma direçāo na vida.",
+        "link": "/personal-development-plan.md"
+    }, {
         "title": "Web Independente",
         "description": "A internet é nossa!",
         "link": "/indie-web.md"
