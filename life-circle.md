@@ -9,8 +9,7 @@ onde estamos indo bem e onde podemos melhorar.
 
 O círculo da vida tem o seguinte formato:
 
-<!-- TODO make this image -->
-![Círculo da vida](./img/life_circle.png)
+![Círculo da vida](https://github.com/liberdade-organizacao/posts/raw/master/img/life_circle.png)
 
 Cada divisão neste círculo representará uma _área_ na nossa vida. O propósito
 deste exercício é  refletir sobre como estamos em cada uma dessas áreas
