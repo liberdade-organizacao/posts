@@ -1,5 +1,10 @@
 [
     {
+        "title": "Círculo da Vida",
+        "description": "Identificando nossos pontos fortes e fracos.",
+        "link": "/life-circle.md"
+    },
+    {
         "title": "Plano de Desenvolvimento Individual",
         "description": "Para ajudar a dar uma direçāo na vida.",
         "link": "/personal-development-plan.md"
