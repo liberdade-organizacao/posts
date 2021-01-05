@@ -1,5 +1,10 @@
 [
     {
+        "title": "Domain Driven Design",
+        "description": "Como uma comunicação precisa pode ajudar a resolver problemas no código.",
+        "link": "/domain-driven-design.md"
+    },
+    {
         "title": "Círculo da Vida",
         "description": "Identificando nossos pontos fortes e fracos.",
         "link": "/life-circle.md"
