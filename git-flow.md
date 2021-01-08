@@ -18,6 +18,8 @@ de teste em outros locais.
 
 ## Organização do Repositório
 
+![Git Flow](https://github.com/liberdade-organizacao/posts/raw/master/img/git-glow.svg)
+
 Uma das principais ideias de se seguir um fluxo é estabelecer uma hierarquia
 nas _branches_ de trabalho, cada uma com um propósito próprio. No final das
 contas, o ideal é ter as seguintes _branches_:
