@@ -1,5 +1,10 @@
 [
     {
+        "title": "Git Flow",
+        "description": "Desenvolvendo de qualidade software em equipe.",
+        "link": "/git-flow.md"
+    },
+    {
         "title": "Domain Driven Design",
         "description": "Como uma comunicação precisa pode ajudar a resolver problemas no código.",
         "link": "/domain-driven-design.md"
