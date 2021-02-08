@@ -2,116 +2,232 @@
     {
         "title": "Domain Driven Design",
         "description": "Como uma comunicação precisa pode ajudar a resolver problemas no código.",
-        "link": "/domain-driven-design.md"
+        "link": "/domain-driven-design.md",
+        "tags": [
+            "engenharia de software"
+        ],
+        "lang": "pt-br"
     },
     {
         "title": "Círculo da Vida",
         "description": "Identificando nossos pontos fortes e fracos.",
-        "link": "/life-circle.md"
+        "link": "/life-circle.md",
+        "tags": [
+            "organização pessoal"
+        ],
+        "lang": "pt-br"
     },
     {
         "title": "Plano de Desenvolvimento Individual",
         "description": "Para ajudar a dar uma direçāo na vida.",
-        "link": "/personal-development-plan.md"
+        "link": "/personal-development-plan.md",
+        "tags": [
+            "organização pessoal"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "Web Independente",
         "description": "A internet é nossa!",
-        "link": "/indie-web.md"
+        "link": "/indie-web.md",
+        "tags": [
+            "engenharia de software",
+            "maker"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "Mentalidade Left-Shift",
         "description": "O objetivo de toda equipe de qualidade: left-shift",
-        "link": "/left-shift.md"
+        "link": "/left-shift.md",
+        "tags": [
+            "engenharia de software"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "AI/ML para QA",
         "description": "Como usar inteligência artificial e machine learning para garantir a qualidade do seu produto",
-        "link": "/ai-ml-qa.md"
+        "link": "/ai-ml-qa.md",
+        "tags": [
+            "engenharia de software"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "Auto-gerenciamento",
         "description": "Dicas para ajudar a por a vida de volta aos trilhos",
-        "link": "/auto-gerenciamento.md"
+        "link": "/auto-gerenciamento.md",
+        "tags": [
+            "organização pessoal"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "Burnout",
         "description": "Anotações da palestra sobre Burnout",
-        "link": "/burnout.md"
+        "link": "/burnout.md",
+        "tags": [
+            "saúde",
+            "organização pessoal"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "A importância da documentaçāo",
         "description": "Pensamentos sobre porque e como fazer boa documentaçāo",
-        "link": "/importancia-da-documentacao.md"
+        "link": "/importancia-da-documentacao.md",
+        "tags": [
+            "gestão de projetos",
+            "engenharia de software"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "i3",
         "description": "Introdução ao i3",
-        "link": "/i3.md"
+        "link": "/i3.md",
+        "tags": [
+            "engenharia de software"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "tmux",
         "description": "Introdução ao tmux",
-        "link": "/tmux.md"
+        "link": "/tmux.md",
+        "tags": [
+            "engenharia de software"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "Screen",
         "description": "Referência rápida para o comando screen",
-        "link": "/screen.md"
+        "link": "/screen.md",
+        "tags": [
+            "engenharia de software"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "PostgreSQL",
         "description": "Setup do banco de dados PostgreSQL",
-        "link": "/postgresql.md"
+        "link": "/postgresql.md",
+        "tags": [
+            "engenharia de software"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "Deploy de aplicação no Heroku",
         "description": "Exemplo de como levantar uma aplicação web no Heroku",
-        "link": "/heroku.md"
+        "link": "/heroku.md",
+        "tags": [
+            "engenharia de software"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "Ruby on Rails + Vagrant",
         "description": "Uso do Vagrant para executar aplicações Ruby on Rails",
-        "link": "/vagrant.md"
+        "link": "/vagrant.md",
+        "tags": [
+            "engenharia de software"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "Technology Readiness Level",
         "description": "Lista da NASA para indicar o nível de maturidade de um projeto",
-        "link": "/trl.md"
+        "link": "/trl.md",
+        "tags": [
+            "engenharia de software"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "Zero Waste",
         "description": "Algumas ideias para começar a sua vida zero waste!",
-        "link": "/zero-waste.md"
+        "link": "/zero-waste.md",
+        "tags": [
+            "organização pessoal"
+        ],
+        "lang": "pt-br"
     },{
         "title": "Scrum",
         "description": "Saiba mais sobre Scrum",
-        "link": "/scrum.md"
+        "link": "/scrum.md",
+        "tags": [
+            "gestão de projetos"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "Análise FOFA",
         "description": "Uma maneira rápida de enxergar os riscos em um problema",
-        "link": "/fofa.html"
+        "link": "/fofa.html",
+        "tags": [
+            "gestão de projetos"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "GTDeep sobre Notion",
         "description": "Minha primeira live! Explorando o app Notion",
-        "link": "/notion.html"
+        "link": "/notion.html",
+        "tags": [
+            "organização pessoal",
+            "gtd"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "Top-Down &amp; Bottom Up",
         "description": "Duas formas de encarar problemas",
-        "link": "/top-down-bottom-up.md"
+        "link": "/top-down-bottom-up.md",
+        "tags": [
+            "gestão de projetos"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "Maker 101",
         "description": "Seja um maker você também!",
-        "link": "/maker-101.md"
+        "link": "/maker-101.md",
+        "tags": [
+            "maker"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "Apps para se organizar",
         "description": "Meus apps favoritos para manter a vida em ordem",
-        "link": "/apps.md"
+        "link": "/apps.md",
+        "tags": [
+            "organização pessoal"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "Triângulo do Projeto",
         "description": "Equilibrando a balança em projetos complicados de uma maneira rápida",
-        "link": "/triangulo-projeto.md"
+        "link": "/triangulo-projeto.md",
+        "tags": [
+            "gestão de projetos"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "Aversão à Perda",
         "description": "Toda decisão involve um risco e não há como escapar disso",
-        "link": "/aversao-a-perda.md"
+        "link": "/aversao-a-perda.md",
+        "tags": [
+            "gestão de projetos"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "10 essenciais",
         "description": "Coisas que todo mundo precisa saber fazer",
-        "link": "/10-essenciais.md"
+        "link": "/10-essenciais.md",
+        "tags": [
+            "organização pessoal"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "Organizando por materiais e por tópicos",
         "description": "Como organizar nossas coisas de uma forma intuitiva",
-        "link": "/organizando-materiais-topicos.md"
+        "link": "/organizando-materiais-topicos.md",
+        "tags": [
+            "organização pessoal"
+        ],
+        "lang": "pt-br"
     }, {
         "title": "Melhores técnicas de estudo",
         "description": "Referências para trabalhar e estudar -- rápido e eficiente",
-        "link": "/tecnicas-estudo.html"
+        "link": "/tecnicas-estudo.html",
+        "tags": [
+            "organização pessoal"
+        ],
+        "lang": "pt-br"
     }
 ]
