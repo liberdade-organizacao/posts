@@ -1,5 +1,14 @@
 [
     {
+        "title": "Parálise de Análise",
+        "description": "Quando pensar demais se torna um problema",
+        "link": "analysis_paralysis.md",
+        "tags": [
+            "organização pessoal",
+        ],
+        "lang": "pt-br"
+    },
+    {
         "title": "Git Flow",
         "description": "Desenvolvendo de qualidade software em equipe.",
         "link": "git-flow.md",
