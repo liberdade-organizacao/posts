@@ -6,8 +6,34 @@ Este fenômeno se chama "parálise de análise" e pode ser fatal para todos os t
 
 Em geral, esta situação surge quando existe um certo medo envolvido na abordagem: estamos lidamos com um problema muito difícil e não sabemos como proceder; talvez temos uma solução porém talvez exista uma resposta melhor; ou a quantidade de opções é tão grande que não tem como escolher a melhor. De toda forma, existe este medo de que tem algo errado. Em cima do problema que já se tem para resolver, existe agora um outro: a parálise da análise.
 
-Se ver que já se passou muito tempo sem progresso (ou se já se imaginar nesta situação de antemão), talvez seja necessário procurar uma forma de sair desta. Pode ser que uma perspectiva nova seja necessária na análise, então procurar novas opiniões de pessoas em que confia pode ajudar a destravar. Se houver muitas opções, pode-se prosseguir com uma métrica mais objetiva, como o [PROMETHEE](http://www.crisjr.eng.br/notes/note.html?which=promethee.html&title=PROMETHEE). A ideia fundamental é encontrar uma forma de entender porque o medo existe para início de conversa e mitigá-lo o máximo possível.
+Se ver que já se passou muito tempo sem progresso 
+(ou se já se imaginar nesta situação de antemão), 
+talvez seja necessário procurar uma forma de sair desta.
+Pode ser que uma perspectiva nova seja necessária na 
+análise, então procurar novas opiniões de pessoas em 
+que confia pode ajudar a destravar. Se houver muitas 
+opções, pode-se prosseguir com uma métrica mais objetiva, 
+como o [PROMETHEE](http://www.crisjr.eng.br/notes/note.html?which=promethee.html&title=PROMETHEE). 
+A ideia fundamental é encontrar uma forma de entender 
+porque o medo existe para início de conversa e mitigá-lo 
+o máximo possível.
+
+Um outro fenômeno que pode afetar nossa análise é a
+chamada "fatiga de decisão". Apesar de não ter consenso
+acerca da sua existência, várias pessoas reportam passar
+por esse mesmo problema: a sua capacidade de decisão
+piora quanto mais escolhas em sequência temos que fazer.
+Isto está relacionado à chamada "depleção do ego", que
+diz que o auto-controle e a força de vontade "vem de uma
+fonte finita". Em outras palavras: tomar decisões 
+quando cansado pode prejudicar o resultado final.
 
 Deve-se tomar cuidado também com a situação contrária: a chamada "extinção por instinto" ocorre quando não se leva um determinado problema em consideração por talvez ser insignificante. Por incrível que pareça, ambas situações estão frequentemente interligadas e podem prejudicar o resultado final.
 
-No final das contas, o importante é perceber quando não há progresso e buscar a ajuda necessária. Ao se notar que muito tempo pode ser desperdiçado analisando um problema sem tomar ação nenhuma, pode-se procurar um auxílio externo ou reavaliar o processo de análise.
+No final das contas, o importante é perceber quando não 
+há progresso e buscar a ajuda necessária. 
+Ao se notar que muito tempo pode ser desperdiçado 
+analisando um problema sem tomar ação nenhuma
+ou que a qualidade do processo mental está prejudicada, 
+pode-se procurar um auxílio externo ou 
+reavaliar o processo de análise.
