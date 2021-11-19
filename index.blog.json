@@ -1,5 +1,15 @@
 [
     {
+        "title": "Comandos Básicos do Linux",
+        "description": "Introdução ao terminal",
+        "link": "linux_terminal_programs.md",
+        "tags": [
+            "engenharia de software"
+        ],
+        "lang": "pt-br"
+    },
+    {
+
         "title": "Parálise de Análise",
         "description": "Quando pensar demais se torna um problema",
         "link": "analysis_paralysis.md",
