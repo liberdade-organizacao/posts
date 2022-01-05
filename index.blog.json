@@ -1,5 +1,14 @@
 [
     {
+        "title": "Como escrever issues",
+        "description": "Explicando os problemas de forma efetiva",
+        "link": "issues.md",
+        "tags": [
+            "engenharia de software"
+        ],
+        "lang": "pt-br"
+    },
+    {
         "title": "Progressive Web Apps",
         "description": "Sites que se comportam como apps nativos",
         "link": "progressive_web_apps.md",
