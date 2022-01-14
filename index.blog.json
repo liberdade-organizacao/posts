@@ -1,5 +1,14 @@
 [
     {
+        "title": "Reuniões 1:1",
+        "description": "Formas de se conectar e se comunicar melhor com o seu time",
+        "link": "1-to-1.md",
+        "tags": [
+            "gestão de projetos"
+        ],
+        "lang": "pt-br"
+    },
+    {
         "title": "Como escrever issues",
         "description": "Explicando os problemas de forma efetiva",
         "link": "issues.md",
