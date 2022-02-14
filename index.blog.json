@@ -1,5 +1,14 @@
 [
     {
+        "title": "Modelo de Kano",
+        "description": "Como priorizar funcionalidades em produtos de software",
+        "link": "kano_model.md",
+        "tags": [
+            "gestão de projetos"
+        ],
+        "lang": "pt-br"
+    },
+    {
         "title": "Reuniões 1:1",
         "description": "Formas de se conectar e se comunicar melhor com o seu time",
         "link": "1-to-1.md",
