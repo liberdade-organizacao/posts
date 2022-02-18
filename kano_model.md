@@ -1,6 +1,6 @@
 # Modelo de Kano
 
-Uma ferramenta simples mas eficiente para priorizar funcionalidades enquanto desenvolvendo _software_ é o **modelo de Kano**, desenvolvido nos anos 1980 pelo pesquisador japonês Noriaki Kanō. A ideia por trás deste método consiste em classificar as preferências dos clientes em 5 categorias e utilizá-las para priorizar as atividades de desenvolvimento.
+Uma ferramenta simples mas eficiente para priorizar quais funcionalidades implementar em um produto é o **modelo de Kano**, desenvolvido nos anos 1980 pelo pesquisador japonês Noriaki Kanō. A ideia por trás deste método consiste em classificar as preferências dos clientes em 5 categorias e utilizá-las para priorizar as atividades de desenvolvimento.
 
 Dito isto, podemos classificar estas preferências dos clientes da seguinte forma:
 
@@ -33,10 +33,10 @@ Identificadas as categorias, o desenvolvimento deve ser priorizado da seguinte f
 - Implementar, nesta ordem, funcionalidades obrigatórias; de performance; e agradáveis
 - Remover funcionalidades detratoras e indiferentes
 
-Uma consequesência do modelo de Kano é que diferentes funcionalidades costumam mudar de categoria ao longo do tempo:
+Uma consequência do modelo de Kano é que diferentes funcionalidades costumam mudar de categoria ao longo do tempo:
 
 - Funcionalidades de performance se tornam obrigatórias; 
 - ...enquanto funcionalidades agradáveis se tornam de performance
 
-Isto acontece pois clientes se acostumam com padrões de qualidade cada vez maiores e esperam que todos os produtos sigam estes padrões. Por isso, é importante compreender o que os concorrentes estão desenvolvendo para identificar em quais categorias as funcionalidades novas se encaixam para que o produto em questão se ajuste as realidades do mercado.
+Isto acontece pois clientes se acostumam com padrões de qualidade cada vez maiores e esperam que todos os produtos sigam estes padrões. Por isso, é importante compreender o que os concorrentes estão desenvolvendo para identificar em quais categorias as funcionalidades novas se encaixam a fim de que o produto em questão se ajuste às realidades do mercado.
 
