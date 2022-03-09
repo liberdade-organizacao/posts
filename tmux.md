@@ -53,3 +53,18 @@ Ao alterar configurações, pode ser necessário salvá-las:
 ```
 tmux show -g > ~/.tmux.conf
 ```
+
+Usando `copy-mode`
+------------------
+
+Um dos modos mais úteis do `tmux` é o `copy-mode`, que permite navegar pelo terminal sem precisar usar o mouse.
+
+- ⌘[ para ativar o `copy-mode`
+- Use as setas para navegar pelo terminal
+- "Espaço" para começar a selecionar texto
+- "Enter" para copiar texto
+- "Escape" para sair do `copy-mode`
+- ⌘] para colar texto
+
+Note que a área de transferência do `tmux` é diferente da do sistema operacional, ou seja, texto copiado desta forma não estará disponível no _ctrl-v_  usado normalmente.
+
