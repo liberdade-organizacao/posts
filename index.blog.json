@@ -1,5 +1,15 @@
 [
     {
+        "title": "Definição de Objetivos",
+        "description": "KPI; OKR; e outras siglas importantes",
+        "link": "objetive_definition.md",
+        "tags": [
+            "gestão de projetos"
+        ],
+        "lang": "pt-br",
+        "date": "2022-04-29T14:00:00.000Z"
+    },
+    {
         "title": "Modelo de Kano",
         "description": "Como priorizar funcionalidades em produtos de software",
         "path": "kano_model.md",
