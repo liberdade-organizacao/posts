@@ -2,355 +2,355 @@
     {
         "title": "Modelo de Kano",
         "description": "Como priorizar funcionalidades em produtos de software",
-        "link": "kano_model.md",
+        "path": "kano_model.md",
         "tags": [
             "gestão de projetos"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2022-02-14T14:13:54.000Z"
     },
     {
         "title": "Reuniões 1:1",
         "description": "Formas de se conectar e se comunicar melhor com o seu time",
-        "link": "1-to-1.md",
+        "path": "1-to-1.md",
         "tags": [
             "gestão de projetos"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2022-01-14T13:27:31.000Z"
     },
     {
         "title": "Como escrever issues",
         "description": "Explicando os problemas de forma efetiva",
-        "link": "issues.md",
+        "path": "issues.md",
         "tags": [
             "engenharia de software"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2022-01-05T14:28:32.000Z"
     },
     {
         "title": "Progressive Web Apps",
         "description": "Sites que se comportam como apps nativos",
-        "link": "progressive_web_apps.md",
+        "path": "progressive_web_apps.md",
         "tags": [
             "engenharia de software"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2021-12-20T13:00:32.000Z"
     },
     {
         "title": "Comandos Básicos do Linux",
         "description": "Introdução ao terminal",
-        "link": "linux_terminal_programs.md",
+        "path": "linux_terminal_programs.md",
         "tags": [
             "engenharia de software"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2021-11-18T22:16:15.000Z"
     },
     {
         "title": "Parálise de Análise",
         "description": "Quando pensar demais se torna um problema",
-        "link": "analysis_paralysis.md",
+        "path": "analysis_paralysis.md",
         "tags": [
             "organização pessoal"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2021-06-23T09:38:13.000Z"
     },
     {
         "title": "Git Flow",
         "description": "Desenvolvendo de qualidade software em equipe.",
-        "link": "git-flow.md",
+        "path": "git-flow.md",
         "tags": [
             "engenharia de software"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2021-01-08T15:12:10.000Z"
     },
     {
         "title": "Domain Driven Design",
         "description": "Como uma comunicação precisa pode ajudar a resolver problemas no código.",
-        "link": "domain-driven-design.md",
+        "path": "domain-driven-design.md",
         "tags": [
             "engenharia de software"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2021-01-05T12:10:39.000Z"
     },
     {
         "title": "Círculo da Vida",
         "description": "Identificando nossos pontos fortes e fracos.",
-        "link": "life-circle.md",
+        "path": "life-circle.md",
         "tags": [
             "organização pessoal"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2020-12-24T16:48:10.000Z"
     },
     {
         "title": "Plano de Desenvolvimento Individual",
         "description": "Para ajudar a dar uma direçāo na vida.",
-        "link": "personal-development-plan.md",
+        "path": "personal-development-plan.md",
         "tags": [
             "organização pessoal"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2020-08-29T13:01:55.000Z"
     },
     {
         "title": "Web Independente",
         "description": "A internet é nossa!",
-        "link": "indie-web.md",
+        "path": "indie-web.md",
         "tags": [
             "engenharia de software",
             "maker"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2020-07-28T20:55:01.000Z"
     },
     {
         "title": "Mentalidade Left-Shift",
         "description": "O objetivo de toda equipe de qualidade: left-shift",
-        "link": "left-shift.md",
+        "path": "left-shift.md",
         "tags": [
             "engenharia de software"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2020-07-28T15:34:10.000Z"
     },
     {
         "title": "AI/ML para QA",
         "description": "Como usar inteligência artificial e machine learning para garantir a qualidade do seu produto",
-        "link": "ai-ml-qa.md",
+        "path": "ai-ml-qa.md",
         "tags": [
             "engenharia de software"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2020-05-06T21:41:39.000Z"
     },
     {
         "title": "Auto-gerenciamento",
         "description": "Dicas para ajudar a por a vida de volta aos trilhos",
-        "link": "auto-gerenciamento.md",
+        "path": "auto-gerenciamento.md",
         "tags": [
             "organização pessoal"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2020-04-30T17:31:29.000Z"
     },
     {
         "title": "Burnout",
         "description": "Anotações da palestra sobre Burnout",
-        "link": "burnout.md",
+        "path": "burnout.md",
         "tags": [
             "saúde",
             "organização pessoal"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2020-04-30T10:08:39.000Z"
     },
     {
         "title": "A importância da documentaçāo",
         "description": "Pensamentos sobre porque e como fazer boa documentaçāo",
-        "link": "importancia-da-documentacao.md",
+        "path": "importancia-da-documentacao.md",
         "tags": [
             "gestão de projetos",
             "engenharia de software"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-12-30T09:29:37.000Z"
     },
     {
         "title": "i3",
         "description": "Introdução ao i3",
-        "link": "i3.md",
+        "path": "i3.md",
         "tags": [
             "engenharia de software"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-10-29T21:34:10.000Z"
     },
     {
         "title": "tmux",
         "description": "Introdução ao tmux",
-        "link": "tmux.md",
+        "path": "tmux.md",
         "tags": [
             "engenharia de software"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-10-29T21:34:10.000Z"
     },
     {
         "title": "Screen",
         "description": "Referência rápida para o comando screen",
-        "link": "screen.md",
+        "path": "screen.md",
         "tags": [
             "engenharia de software"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-10-29T21:34:10.000Z"
     },
     {
         "title": "PostgreSQL",
         "description": "Setup do banco de dados PostgreSQL",
-        "link": "postgresql.md",
+        "path": "postgresql.md",
         "tags": [
             "engenharia de software"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-10-29T21:34:10.000Z"
     },
     {
         "title": "Deploy de aplicação no Heroku",
         "description": "Exemplo de como levantar uma aplicação web no Heroku",
-        "link": "heroku.md",
+        "path": "heroku.md",
         "tags": [
             "engenharia de software"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-10-29T21:34:10.000Z"
     },
     {
         "title": "Ruby on Rails + Vagrant",
         "description": "Uso do Vagrant para executar aplicações Ruby on Rails",
-        "link": "vagrant.md",
+        "path": "vagrant.md",
         "tags": [
             "engenharia de software"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-10-29T21:34:10.000Z"
     },
     {
         "title": "Technology Readiness Level",
         "description": "Lista da NASA para indicar o nível de maturidade de um projeto",
-        "link": "trl.md",
+        "path": "trl.md",
         "tags": [
             "engenharia de software"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-10-29T21:34:10.000Z"
     },
     {
         "title": "Zero Waste",
         "description": "Algumas ideias para começar a sua vida zero waste!",
-        "link": "zero-waste.md",
+        "path": "zero-waste.md",
         "tags": [
             "organização pessoal"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-10-01T20:32:11.000Z"
     },
     {
         "title": "Scrum",
         "description": "Saiba mais sobre Scrum",
-        "link": "scrum.md",
+        "path": "scrum.md",
         "tags": [
             "gestão de projetos"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-05-19T22:37:22.000Z"
     },
     {
         "title": "Análise FOFA",
         "description": "Uma maneira rápida de enxergar os riscos em um problema",
-        "link": "fofa.html",
+        "path": "fofa.html",
         "tags": [
             "gestão de projetos"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-05-19T22:37:22.000Z"
     },
     {
         "title": "GTDeep sobre Notion",
         "description": "Minha primeira live! Explorando o app Notion",
-        "link": "notion.html",
+        "path": "notion.html",
         "tags": [
             "organização pessoal",
             "gtd"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-05-19T22:37:22.000Z"
     },
     {
         "title": "Top-Down &amp; Bottom Up",
         "description": "Duas formas de encarar problemas",
-        "link": "top-down-bottom-up.md",
+        "path": "top-down-bottom-up.md",
         "tags": [
             "gestão de projetos"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-05-19T22:37:22.000Z"
     },
     {
         "title": "Maker 101",
         "description": "Seja um maker você também!",
-        "link": "maker-101.md",
+        "path": "maker-101.md",
         "tags": [
             "maker"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-05-19T22:37:22.000Z"
     },
     {
         "title": "Apps para se organizar",
         "description": "Meus apps favoritos para manter a vida em ordem",
-        "link": "apps.md",
+        "path": "apps.md",
         "tags": [
             "organização pessoal"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-05-19T22:37:22.000Z"
     },
     {
         "title": "Triângulo do Projeto",
         "description": "Equilibrando a balança em projetos complicados de uma maneira rápida",
-        "link": "triangulo-projeto.md",
+        "path": "triangulo-projeto.md",
         "tags": [
             "gestão de projetos"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-05-19T22:37:22.000Z"
     },
     {
         "title": "Aversão à Perda",
         "description": "Toda decisão involve um risco e não há como escapar disso",
-        "link": "aversao-a-perda.md",
+        "path": "aversao-a-perda.md",
         "tags": [
             "gestão de projetos"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-05-19T22:37:22.000Z"
     },
     {
         "title": "10 essenciais",
         "description": "Coisas que todo mundo precisa saber fazer",
-        "link": "10-essenciais.md",
+        "path": "10-essenciais.md",
         "tags": [
             "organização pessoal"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-05-19T22:37:22.000Z"
     },
     {
         "title": "Organizando por materiais e por tópicos",
         "description": "Como organizar nossas coisas de uma forma intuitiva",
-        "link": "organizando-materiais-topicos.md",
+        "path": "organizando-materiais-topicos.md",
         "tags": [
             "organização pessoal"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-05-19T22:37:22.000Z"
     },
     {
         "title": "Melhores técnicas de estudo",
         "description": "Referências para trabalhar e estudar -- rápido e eficiente",
-        "link": "tecnicas-estudo.html",
+        "path": "tecnicas-estudo.html",
         "tags": [
             "organização pessoal"
         ],
-        "lang": "pt-br",
+        "language": "pt-br",
         "date": "2019-05-19T22:37:22.000Z"
     }
 ]
