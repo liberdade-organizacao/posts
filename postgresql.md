@@ -1,6 +1,6 @@
 # PostgreSQL
 
-Existem vários gerenciadores de bancos de dados disponíveis, mas o meu favorito até o momento é o PostgreSQL: é *open source*, tem bom suporte para imagens e seu *setup* no [Heroku](https://www.heroku.com/) é bem simples. Hoje vou apresentar minha *cheat sheet* para levantar um servidor PostgreSQL (ou PSQL para abreviar) na máquina local para desenvolvimento.
+Existem vários gerenciadores de bancos de dados disponíveis, mas o meu favorito até o momento é o PostgreSQL: é *open source*, tem bom suporte para imagens e seu *setup* é bem simples. Hoje vou apresentar minha *cheat sheet* para levantar um servidor PostgreSQL (ou PSQL para abreviar) na máquina local para desenvolvimento.
 
 ## Instalação
 
@@ -10,6 +10,15 @@ A instalação depende do sistema operacional que você estiver utilizando. Para
     sudo apt-get install postgresql postgresql-client # debian
 
 Para Windows, basta ir ao [site do programa](https://www.postgresql.org/download/windows/), baixar os executáveis e seguir as instruções em tela.
+
+## Execução
+
+Em alguns sistemas, pode ser necessário iniciar o servidor PSQL manualmente. Para tanto:
+
+    initdb $DATA_FOLDER
+    pg_ctl -D $DATA_FOLDER start
+    pg_ctl -D $DATA_FOLDER stop  # para parar
+    createdb $DB_NAME
 
 ## Criação de usuários e bancos de dados
 

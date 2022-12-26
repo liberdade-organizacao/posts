@@ -203,16 +203,6 @@
         "date": "2019-10-29T21:34:10.000Z"
     },
     {
-        "title": "Deploy de aplicação no Heroku",
-        "description": "Exemplo de como levantar uma aplicação web no Heroku",
-        "path": "heroku.md",
-        "tags": [
-            "engenharia de software"
-        ],
-        "language": "pt-br",
-        "date": "2019-10-29T21:34:10.000Z"
-    },
-    {
         "title": "Ruby on Rails + Vagrant",
         "description": "Uso do Vagrant para executar aplicações Ruby on Rails",
         "path": "vagrant.md",
