@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "title": "Definição de Objetivos",
         "description": "KPI; OKR; e outras siglas importantes",
         "link": "objetive_definition.md",
@@ -8,6 +9,17 @@
         ],
         "lang": "pt-br",
         "date": "2022-04-29T14:00:00.000Z"
+=======
+        "title": "Reunião de Retrospectiva",
+        "description": "Como fazer uma retrospectiva memorável",
+        "path": "retrospective.md",
+        "tags": [
+            "gestão de projetos",
+            "engenharia de software"
+        ],
+        "language": "pt-br",
+        "date": "2022-12-26T14:00:00.000Z",
+>>>>>>> Layout general steps for retrospective
     },
     {
         "title": "Modelo de Kano",
