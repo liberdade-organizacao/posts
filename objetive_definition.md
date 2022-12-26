@@ -8,11 +8,11 @@ algumas métricas como base para as metas a serem alcançadas a fim de tornar
 claros o escopo; as prioridades; e a motivação do trabalho.
 
 Neste artigo, serão listadas algumas formas de definir estes objetivos e
-qual o melhor contexto para elas serem utilizadas
+qual o melhor contexto para seu uso.
 
 ## _Objetives & Key Results_ (OKR)
 
-...ou em português "Objetivos e Resultados-chave" é comumente uma lista
+...ou em português "Objetivos e Resultados-chave", são comumente uma lista
 com:
 
 - os **objetivos** a serem alcançados em um determinado período de tempo; e
