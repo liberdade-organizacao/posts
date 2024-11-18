@@ -1,4 +1,12 @@
 [ {
+  "title": "CUPID? SOLID? RACI?",
+  "description": "Algumas siglas populares entre engenheiros de software e o que elas significam",
+  "path": "siglas.md",
+  "tags": ["engenharia de software"],
+  "language": "pt-br",
+  "creation_date": "2024-11-18T11:06:00.000Z",
+  "last_updated_date": "2024-11-18T11:06:00.000Z"
+}, {
   "title" : "Reunião de Retrospectiva",
   "description" : "Como fazer uma retrospectiva memorável",
   "path" : "retrospective.md",
