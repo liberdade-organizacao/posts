@@ -41,12 +41,14 @@ Comandos básicos
 - ⌘? para listar todos os atalhos
 - ⌘Z para maximizar o painel atual
 - ⌘: para digitar comandos manualmente
+- ⌘( e ⌘) para trocar entre sessões
 
 Examplos de comandos manuais:
 
 - `split-window`: divide uma janela horizontalmente
 - `set -g mouse on`: ativa o mouse na janela
 - `set -g prefix C-a`: troca a combinação _prefix_ para _ctrl-a_
+- `new -s nome-da-sessao`: cria uma sessão nova
 
 Ao alterar configurações, pode ser necessário salvá-las:
 
