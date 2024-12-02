@@ -5,10 +5,19 @@ de visitas profissional até todos os tipos de experiências diferentes,
 todo site tem o seu motivo. O que todos os sites precisam é de hospedagem
 e, neste artigo, descrevemos algumas formas de colocar o site na internet.
 
+Basicamente, o mínimo necessário para ter o seu site é:
+
+- Código (HTML, CSS e Javascript)
+- Domínio;
+- Certificados de segurança;
+- Hospedagem;
+
+
+## Código
 
 ## Domínio
 
-## HTTPS
+## Certificados de Segurança
 
 ## Hospedagem 
 
